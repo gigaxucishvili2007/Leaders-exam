@@ -1,0 +1,233 @@
+.title {
+    color: chocolate;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container {
+    width: 230px;
+    height: 400px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.result {
+    color: rgb(158, 110, 110);
+    transform: translateY(-410px);
+    margin-left: 170px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.btn {
+    background-color: #9a9a9a;
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    transform: translateY(-390px);
+    margin-left: 12px;
+    color: black;
+    border: none;
+}
+
+.btn1 {
+    background-color: #9a9a9a;
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    transform: translateY(-390px);
+    margin-left: 12px;
+    color: black;
+    border: none;
+
+}
+
+.btn2 {
+    background-color: #ee9406;
+    width: 45px;
+    height: 38px;
+    transform: translateY(-390px);
+    border-radius: 70px;
+    margin-left: 15px;
+    color: white;
+    border: none;
+
+}
+
+.btn3 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-368px);
+    border-radius: 70px;
+    border: none;
+    margin-right: 300px;
+    margin-left: 10px;
+    background-color: #2f2f2f;
+    color: white;
+}
+
+.btn4 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    margin-left: 70px;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 500px;
+    transform: translateY(-406px);
+}
+
+.btn5 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    margin-left: 70px;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 500px;
+    margin-left: 130px;
+    transform: translateY(-443px);
+}
+
+.btn6X {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #ee9406;
+    color: white;
+    transform: translateY(-430px);
+    margin-left: 10px;
+}
+
+.btn7 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    transform: translateY(-430px);
+    margin-left: 11px;
+}
+
+.btn8 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    transform: translateY(-430px);
+    margin-left: 10px;
+}
+
+.btn9 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    transform: translateY(-410px);
+    margin-right: 400px;
+    margin-left: 10px;
+}
+
+.btn10 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+   background-color: #ee9406;
+    color: white;
+    transform: translateY(-448px);
+    margin-left: 65px;
+}
+
+.btn11 {
+    width: 45px;
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    transform: translateY(-448px);
+    margin-left: 10px;
+}
+
+.btn12 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-435px);
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 300px;
+    margin-left: 10px;
+}
+
+.btn13 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-473px);
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 100px;
+    margin-left: 65px;
+}
+
+.btn14 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-510px);
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 250px;
+    margin-left: 120px;
+    
+}
+
+.btn15 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-500px);
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 250px;
+    margin-left: 11px;
+}
+
+.btn16 {
+    width: 45px;
+    height: 38px;
+    transform: translateY(-537px);
+    border-radius: 70px;
+    border: none;
+    background-color: #2f2f2f;
+    color: white;
+    margin-right: 250px;
+    margin-left: 65px;
+}
+
+.btn17 {
+    width: 45px;
+    transform: translateY(-575px);
+    height: 38px;
+    border-radius: 70px;
+    border: none;
+    background-color: #ee9406;
+    color: white;
+    margin-right: 250px;
+    margin-left: 120px;
+}
